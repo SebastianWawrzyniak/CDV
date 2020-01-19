@@ -3,3 +3,10 @@ p {
     font-size: 20px;
     color:pink;
 }
+h1  {
+    display: block:
+    margin: 60px;
+    background-color:grey;
+    font-size:70px;
+    color:black;
+}
